@@ -1,6 +1,6 @@
 cask "zp-rdm" do
-  version "1.12.0"
-  sha256 "ebf94ce053b3c22379ec04effb5eccfa14861b76228c33158b61e48ce8ada9d3"
+  version "1.13.0"
+  sha256 "9f6e00635408b3eff7f53545dbcb255098c2c18baeb56e06115bf881548b12f3"
 
   url "https://github.com/Cearl-gzy/zp-rdm/releases/download/v#{version}/zp-rdm-darwin-universal.zip"
   name "ZP Redis Manager"
